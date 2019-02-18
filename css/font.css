@@ -3,14 +3,14 @@
     font-style:normal;
     font-weight:400;
     src:local(※),
-        url(/fonts/NotoSansKR-Regular.woff) format('woff');
+        url(../fonts/NotoSansKR-Regular.woff) format('woff');
 }
 @font-face {
 	font-family:'Noto Sans Bold';
 	font-style:normal;
 	font-weight:400;
 	src:local(※),
-		url(/fonts/NotoSansKR-Bold.woff) format('woff');
+		url(../fonts/NotoSansKR-Bold.woff) format('woff');
 }
 
 body { font-family:'Noto Sans Regular', '맑은 고딕', sans-serif; }
