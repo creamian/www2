@@ -12,3 +12,5 @@
 	src:local(※),
 		url(/fonts/NotoSansKR-Bold.woff) format('woff');
 }
+
+body { font-family:'Noto Sans Regular', '맑은 고딕', sans-serif; }
